@@ -11,6 +11,12 @@ public class EvenOrOdd {
 	public static void addition() {
 		System.out.println(12+12);
 		System.out.println(10+12);
+		System.out.println(12+12);
+		System.out.println(10+12);
+		System.out.println(12+12);
+		System.out.println(10+12);
+		System.out.println(12+12);
+		System.out.println(10+12);
 		
 	}
 
