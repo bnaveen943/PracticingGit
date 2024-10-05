@@ -5,6 +5,12 @@ public class EvenOrOdd {
 	public static void main(String[] args) {
 		evenOdd();
 		factorial();
+		addition();
+	}
+
+	public static void addition() {
+		System.out.println(12+12);
+		
 	}
 
 	public static void factorial() {
@@ -24,5 +30,7 @@ public class EvenOrOdd {
 			System.out.println("Odd");
 		
 	}
+	
+	
 
 }
